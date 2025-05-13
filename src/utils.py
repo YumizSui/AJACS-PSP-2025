@@ -16,7 +16,7 @@ def show_results(cif_file):
 
     view.setBackgroundColor('white')
     view.zoomTo()
-    view.show()
+    return view
 
 
 def create_pae_plot(
