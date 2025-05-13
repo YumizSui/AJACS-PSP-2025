@@ -10,3 +10,7 @@ sequences:
   - ligand: # allosteric
         id: C
         ccd: AV6
+constraints:
+  - pocket:
+      binder: C
+      contacts: [ [ A, 46 ], [ A, 64 ] ]

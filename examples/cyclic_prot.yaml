@@ -4,3 +4,4 @@ sequences:
       id: A
       sequence: QLEDSEVEAVAKG
       cyclic: true
+      msa: empty
